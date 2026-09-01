@@ -4,4 +4,4 @@
 
 [Sphere Cubes Explorer](./Sphere Cubes Explorer.html)
 
-[Lost Connection](./Lost Connection.html)
+[Connection Lost](./Connection Lost.html)
