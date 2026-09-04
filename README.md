@@ -5,3 +5,5 @@
 [Sphere Cubes Explorer](./Sphere Cubes Explorer.html)
 
 [Connection Lost](./Connection Lost.html)
+
+[Family Directory](./Family-Directory-standalone.html)
